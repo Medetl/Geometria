@@ -1,2 +1,2 @@
 # Geometria
-Curvas y superficies
+Curvas y superficies.
